@@ -29,6 +29,3 @@ intelligent fraud detection project.
 The development environment was successfully configured and the initial
 project structure was created.
 
-## Files
-
-- Day_01_Project_Setup.ipynb
